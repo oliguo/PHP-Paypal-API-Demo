@@ -1,5 +1,5 @@
 {
-    "intent": "order",
+    "intent": "order",//    "intent": "sale",
     "payer": {
         "payment_method": "paypal"
     },
